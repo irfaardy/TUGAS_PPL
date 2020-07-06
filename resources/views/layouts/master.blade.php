@@ -205,12 +205,12 @@
     </section>
     <!-- End Content -->
     <!-- Footer -->
-    <footer class="section footer-classic context-dark bg-image" style="margin-top:24px;background: #00251a;">
+    <footer class="section footer-classic context-dark bg-image" style="margin-top:24px;background: #7f0000;">
         <div class="container-fluid" style="margin-top:24px;">
             <div class="row row-30">
                 <div class="col-md-4 col-xl-5" style="margin-top:24px;">
                     <div class="pr-xl-4">
-                        <a class="brand" href="index.html"><span style="font-size: 20px;">TIKET.ID</span></a>
+                        <a class="brand" href="index.html"><span style="font-size: 20px; font-weight: bold;">TIKET.ID</span></a>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
                     </div>
